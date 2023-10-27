@@ -1,1 +1,59 @@
 /*  your css code here. If applicable */
+/* Apply styles to the heading (h1) */
+h1 {
+    font-size: 36px;
+    color: #333;
+    text-align: center;
+}
+
+/* Apply styles to the paragraph */
+p {
+    font-size: 18px;
+    color: #666;
+    text-align: center;
+}
+
+/* Apply styles to the line break (hr) */
+hr {
+    margin: 20px 0;
+    border: 0;
+    height: 2px;
+    background-color: #333;
+}
+
+/* Apply styles to the subheadings (h2) */
+h2 {
+    font-size: 24px;
+    color: #333;
+}
+
+/* Apply styles to ordered lists (ol) */
+ol {
+    font-size: 18px;
+    color: #666;
+    margin-left: 20px;
+}
+
+/* Apply styles to list items in ordered lists */
+ol li {
+    margin: 10px 0;
+}
+
+/* Apply styles to unordered lists (ul) */
+ul {
+    font-size: 18px;
+    color: #666;
+    margin-left: 20px;
+}
+
+/* Apply styles to list items in unordered lists */
+ul li {
+    margin: 10px 0;
+}
+
+/* Apply styles to emphasized text (strong or em) within list items */
+li strong, li em {
+    font-weight: bold;
+    font-style: italic;
+    color: #FF6600;
+}
